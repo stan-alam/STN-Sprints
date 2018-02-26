@@ -4,7 +4,7 @@
 
 The main objective of the vision 20/20: to complete the following super epics by 2020. 2021 is the final extension, guitar projects may extend to 2025 +
 
-## AWS Super Epic  - AWS Certification
+## Super Epic  - AWS Certification
 
 * has business value and personal growth value
 
@@ -60,7 +60,7 @@ The main objective of the vision 20/20: to complete the following super epics by
 
 ### Epic - RabbitMQ
 
-### Epic - Elixir
+### Epic - Elixir-craft
 
 ### Epic - graphQL craft
 
@@ -84,9 +84,9 @@ The main objective of the vision 20/20: to complete the following super epics by
 
 ### Epic - Serverless AWS - Text
 
-### Epic Hapi video  
+### Epic - Hapi video  
 
-## Epic - Hapi Text  
+### Epic - Hapi Text  
 
 ### Epic - Miller, Programming - Python in Context
 
