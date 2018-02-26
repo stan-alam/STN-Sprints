@@ -1,5 +1,110 @@
 ## STN project Sprints
 
+# Super-Epics and Epics for vision 20/20
+
+The main objective of the vision 20/20: to complete the following super epics by 2020. 2021 is the final extension, guitar projects may extend to 2025 +
+
+## AWS Epic  - AWS Certification
+
+* has business value and personal growth value
+
+## Super Epic - Data Science certification
+
+* has business value and personal growth value
+
+## Super Epic - Degree for Data Science Certification
+
+* has business value and personal growth value
+
+## Super Epic - Beethoven Sonatas/music for Guitar
+
+* has no business value but does offer an opportunity for personal growth
+
+## Super Epic - Mozart Sonatas/music for Guitar
+
+* has no business value but does offer an opportunity for personal growth
+
+## Super Epic - Learn Node and learn it well
+
+* has business value and potential for personal growth.
+
+## Super Epic - Learn Functional Programming with Elixir, Erlang and Haskell
+
+* has marginal business value but high potential for personal growth
+
+## Super Epic - Learn the Calculus and learn it well/this includes differential equations
+
+* has no business value but does offer an opportunity for personal growth
+
+## Super Epic - Learn Python and learn it well
+
+* has business value and personal growth value
+
+## Super Epic - Stay FIT
+
+* no immediate business value, does offer opportunity for personal growth
+
+--------------------------------------------------------------------------------
+
+### Epic - coreNode  
+
+### Epic - AWS live Lecture   
+
+### Epic - Object Oriented Design - Agile
+
+### Epic - Advanced Node
+
+### Epic - RabbitMQ
+
+### Epic - Elixir
+
+### Epic - graphQL craft
+
+### Epic - graphQL Android
+
+### Epic - RESTful with Python  
+
+### Epic - Beethoven Sonata 23, Op 57 just the solo for Guitar
+
+### Epic - Mozart - A little night music in G for guitar   
+
+### Epic - Vivaldi - Spring, 1st movement for Guitar
+
+### Epic - Haskell - for the good text  
+
+### Epic - Recursive Programming, Python   
+
+### Epic - Beethoven Bagatelle No. 25 in A minor complete arrangement (high E, 12th fret)for guitar
+
+### Epic - GoLang - Lecture Videos   
+
+### Epic - Serverless AWS - Text
+
+### Epic Hapi video  
+
+## Epic - Hapi Text  
+
+### Epic - Miller, Programming - Python in Context
+
+### Epic - Mozart K545 Sonata 2nd Movement for guitar
+
+### Epic - Haydn - No. 29 for guitar
+
+### Epic - React - TEXT
+
+### Epic - Angular 5.x text   
+
+### Epic - Haskell/ College TEXT
+
+### Epic - Pointers in C - lecture material
+
+### Epic - Algorithms and Data Structures in Java - Text  
+
+### Epic - Algorithms in JavaScript lecture(1)
+
+### Epic - Algorithms and Data Structures in Java lecture(1)
+
+
 Objective(s) for workspace are as follows but are not all inclusive.
 
 1. To track and complete sprint tasks along with stretch goals.
