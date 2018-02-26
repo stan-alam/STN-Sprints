@@ -4,7 +4,7 @@
 
 The main objective of the vision 20/20: to complete the following super epics by 2020. 2021 is the final extension, guitar projects may extend to 2025 +
 
-## AWS Epic  - AWS Certification
+## AWS Super Epic  - AWS Certification
 
 * has business value and personal growth value
 
@@ -43,6 +43,10 @@ The main objective of the vision 20/20: to complete the following super epics by
 ## Super Epic - Stay FIT
 
 * no immediate business value, does offer opportunity for personal growth
+
+## Super Epic - Learn none-RPM based GNU/Linux inside out
+
+* has business value nothing really for personal growth
 
 --------------------------------------------------------------------------------
 
