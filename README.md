@@ -114,8 +114,9 @@ Objective(s) for workspace are as follows but are not all inclusive.
 1. To track and complete sprint tasks along with stretch goals.
 
 ## Sprint STN-2
- *note epic coreNode should be complete by end of sprint* cheers!
- Start date : 02.25.2018
+ *note epic coreNode should be complete by end of sprint* cheers! > https://github.com/stan-alam/STN-Sprints/blob/develop/EPICS/2018/02/Quick-sheets-94.svg
+
+Start date : 02.25.2018
 End date   : 03.13.2018
 
 <a>
